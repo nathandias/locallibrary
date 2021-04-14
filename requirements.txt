@@ -1,4 +1,8 @@
 asgiref @ file:///home/nathan/.cache/pypoetry/artifacts/fe/db/83/0ae447caa7129971ac3189887098d047d0257c23b979d0f76c93496c95/asgiref-3.3.4-py3-none-any.whl
+dj-database-url @ file:///home/nathan/.cache/pypoetry/artifacts/45/63/a9/658183194fc3125fc68440060966adc5dd0a3fc4ce8fed4192341b49bf/dj_database_url-0.5.0-py2.py3-none-any.whl
 Django @ file:///home/nathan/.cache/pypoetry/artifacts/0f/66/af/c29df6d4be04cd385195a3d9e063da66066284df0e046700bd386042cd/Django-3.2-py3-none-any.whl
+gunicorn @ file:///home/nathan/.cache/pypoetry/artifacts/49/52/11/ca2c9e6fcb8f0cea17b42cca466392662d027b74267e171db859525e93/gunicorn-20.1.0.tar.gz
+locallibrary==0.1.0
+psycopg2-binary @ file:///home/nathan/.cache/pypoetry/artifacts/7b/a0/a4/a48cee3650bebc08798826d07404c087c876328711a0941ac5c07fd8c3/psycopg2_binary-2.8.6-cp39-cp39-manylinux1_x86_64.whl
 pytz @ file:///home/nathan/.cache/pypoetry/artifacts/b0/a7/8d/54de3ab4d1ff29abbbca1e9ccbaefdc2a1b290138311b84f73bee16de1/pytz-2021.1-py2.py3-none-any.whl
 sqlparse @ file:///home/nathan/.cache/pypoetry/artifacts/bc/af/02/8aa71b17fd39b26b858293918c5c6412f83768a0bfd0a4626f660aa5f8/sqlparse-0.4.1-py3-none-any.whl
